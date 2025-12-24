@@ -1,6 +1,5 @@
 # CO2-and-the-Cost-of-Growth
 CO₂ and the Cost of Growth: Is Sustainability Still an Option?
-Author: ZAINAB QAMBAR HUSAIN BAQER
 Data Scope: 1980 – 2019
 Case Study: Global, GCC, and Bahrain
 ### 📌 Project Overview
